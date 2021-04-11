@@ -9,6 +9,7 @@ import kotlin.math.acos
 import kotlin.math.pow
 import kotlin.math.sqrt
 
+
 class RotatingByTouchImageView(context: Context, attributeSet: AttributeSet) :
     androidx.appcompat.widget.AppCompatImageView(context, attributeSet) {
 
